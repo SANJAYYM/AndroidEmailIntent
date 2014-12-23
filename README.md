@@ -7,10 +7,10 @@ Android intent to call system Email-client to send mail
 Android Intent, the object carrying an intent that is  
 message from one component to another component with-in the application or outside the application.  
   
-you don't always need to build a e-mail application from the scratch, most of the android devices comes with the  
-ready to mail client or imap and pop3 email clients in the operating system for sure. all you need to know is the  
-simple way to connect your appliction to the system mail client. doing this in your application saves the time in   
-building the email activity for you and other features that any email app would take to build.     
+you don't always need to build a e-mail application from the scratch, most of the android devices comes with the
+ready to mail client or imap and pop3 email clients in the operating system for sure. all you need to know is the
+simple way to connect your appliction to the system mail client. doing this in your application saves the time in
+building the email activity for you and other features that any email app would take to build.
 **Advantage**  
 -> You will save noticeable amount of time.
 -> Features of the system mail client application will have multiple features and more.
